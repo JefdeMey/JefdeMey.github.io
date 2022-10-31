@@ -17,7 +17,9 @@ h1 {
 #welcomegif {
     width: 50%;
     }
-
+.wedstrijd {
+    text-align: Center;
+    }
 #match_1.1{
     display: inline block;
     width: 100px;
