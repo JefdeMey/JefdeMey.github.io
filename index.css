@@ -17,8 +17,10 @@ h1 {
 #welcomegif {
     width: 50%;
     }
+
 #match_1.1{
     display: inline block;
-    width: 33%;
+    width: 100px;
+    height: 250px;
     }
         
